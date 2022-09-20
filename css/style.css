@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  font-size: 60px;
+}
+
+.col-8 {
+  background-color: blue;
+}
+
+p {
+  font-size: 70px;
+  text-align: center;
+}
+
+ul {
+  dispaly: block;
+  list-style-type: none;
+}
+
+ul li {
+  display: inline;
+}
+
+footer {
+  background-color: aquamarine;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLHVCQUFBO0VBQ0EsZUFBQTtBQ0NKOztBREVBO0VBQ0ksc0JBQUE7QUNDSjs7QURFQTtFQUNJLGVBQUE7RUFDQSxrQkFBQTtBQ0NKOztBREdBO0VBQ0ksY0FBQTtFQUNBLHFCQUFBO0FDQUo7O0FESUE7RUFDSSxlQUFBO0FDREo7O0FESUE7RUFDSSw0QkFBQTtBQ0RKIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
