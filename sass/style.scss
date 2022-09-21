@@ -1,28 +1,58 @@
-body{
-    background-color:black;
-    font-size:60px;
-}
-
-.col-8{
-    background-color:blue;
-}
-
-p{
-    font-size: 70px;
-    text-align: center;
+.navbar .btn-secondary{
+    display:flex;
+    position:right;
+    justify-content:flex-end;
+    flex-direction:row-reverse;
     
 }
 
-ul{
-    dispaly:block;
-    list-style-type: none;
+/* Slider */
 
+.carousel-inner, .carousel-item {
+  height: 100vh;
 }
 
-ul li{
-    display: inline;
+.carousel-item img {
+  height: 100%;
+  object-fit: cover;
 }
 
-footer{
-    background-color: aquamarine;
+.card img{
+    width:100%;
+    height:300px;
+    object-fit:cover;
+}
+/*
+.carousel-caption{
+    right:auto;
+    bottom:auto;
+    padding:0;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
+*/
+.news .card-body{
+    position:absolute;
+}
+
+.contact{
+    background:#eff2f5;
+}
+
+.list-group-item{
+    background-color:#eff2f5;
+    border:0;
+    padding:2px;
+    margin:5px 2px;
+}
+
+.list-group-item a{
+    color:black;
+    font-size:16px;
+    
+}
+
+.footer{
+    background:#D3D3D3;
 }
